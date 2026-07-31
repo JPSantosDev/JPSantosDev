@@ -14,16 +14,16 @@
 
 # Languages
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45"/><br><br>
 <b>Kotlin</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/><br><br>
 <b>Java</b>
 </td>
 
@@ -34,21 +34,21 @@
 
 # Tools
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><br><br>
 <b>Android Studio</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><br><br>
 <b>Git</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/><br><br>
 <b>GitHub</b>
 </td>
 
@@ -59,26 +59,26 @@
 
 # Learning
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45"/><br><br>
 <b>Jetpack Compose</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/><br><br>
 <b>Spring Boot</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/><br><br>
 <b>PHP</b>
 </td>
 
-<td align="center" width="170">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/><br><br>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/><br><br>
 <b>SQL</b>
 </td>
 
@@ -87,13 +87,12 @@
 
 ---
 
-
 # Contact
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td align="center" width="220">
+<td align="center">
 
 <a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -101,7 +100,7 @@
 
 </td>
 
-<td align="center" width="220">
+<td align="center">
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
