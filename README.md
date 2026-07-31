@@ -1,24 +1,28 @@
-# Olá, eu sou Jean Pierre 👋
+# Olá, eu sou Jean Pierre
 
-### Mobile Developer | Kotlin & Android
+<h3 align="center">Mobile Developer | Kotlin & Android</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="320" alt="Coding"/>
+💻 Desenvolvendo aplicativos Android com Kotlin e explorando novas tecnologias do ecossistema mobile.
+</p>
+
+<p align="center">
+<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="320"/>
 </p>
 
 ---
 
-## Languages
+# Languages
 
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="70"/><br><br>
 <b>Kotlin</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70"/><br><br>
 <b>Java</b>
 </td>
@@ -28,22 +32,22 @@
 
 ---
 
-## Tools
+# Tools
 
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70"/><br><br>
 <b>Android Studio</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/><br><br>
 <b>Git</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/><br><br>
 <b>GitHub</b>
 </td>
@@ -53,27 +57,27 @@
 
 ---
 
-## Learning
+# Learning
 
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="70"/><br><br>
 <b>Jetpack Compose</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70"/><br><br>
 <b>Spring Boot</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70"/><br><br>
 <b>PHP</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="170">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/><br><br>
 <b>SQL</b>
 </td>
@@ -83,21 +87,30 @@
 
 ---
 
-## Contact
 
-<p align="center">
+# Contact
 
-<a href="mailto:seuemail@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
 
-<a href="https://www.linkedin.com/in/seu-linkedin/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<td align="center" width="220">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
