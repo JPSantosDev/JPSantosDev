@@ -7,110 +7,40 @@
 </p>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200"/>
+</p>
+
+**Languages**
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+
+**Tools**
+<p align="center">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+**Learning**
+<p align="center">
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+**Contact**
+<p align="center">
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# Languages
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45"/><br><br>
-<b>Kotlin</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/><br><br>
-<b>Java</b>
-</td>
-
-</tr>
-</table>
-
----
-
-# Tools
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><br><br>
-<b>Android Studio</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><br><br>
-<b>Git</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/><br><br>
-<b>GitHub</b>
-</td>
-
-</tr>
-</table>
-
----
-
-# Learning
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="45"/><br><br>
-<b>Jetpack Compose</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/><br><br>
-<b>Spring Boot</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/><br><br>
-<b>PHP</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/><br><br>
-<b>SQL</b>
-</td>
-
-</tr>
-</table>
-
----
-
-# Contact
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td align="center">
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005C53&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=005C53&height=100&section=footer"/>
