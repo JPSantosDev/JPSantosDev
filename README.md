@@ -33,7 +33,7 @@
 
 **Contact**
 <p align="center">
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:jp0056392@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
